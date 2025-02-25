@@ -10,7 +10,10 @@
     "android/build.gradle",
     "android/src",
     "ios/",
-    "lib/**/*"
+    "lib/**/*",
+    "index.ts",
+    "types.ts",
+    "tsconfig.json"
   ],
   "scripts": {
     "build": "tsc",
